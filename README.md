@@ -2,8 +2,6 @@
 
 PrepPilot helps job seekers prepare for interviews by generating personalized interview reports and tailored resume PDFs based on their self-description, resume content, and target job description — powered by Google's Generative AI.
 
-## 🔗 Live Demo
-
 Live Link :https://preppilot-ai-ljq3.onrender.com
 
 ## ✨ Features
