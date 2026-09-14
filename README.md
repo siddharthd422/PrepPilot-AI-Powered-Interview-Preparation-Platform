@@ -4,7 +4,7 @@ PrepPilot helps job seekers prepare for interviews by generating personalized in
 
 ## 🔗 Live Demo
 
-Link :https://preppilot-ai-ljq3.onrender.com
+Live Link :https://preppilot-ai-ljq3.onrender.com
 
 ## ✨ Features
 
